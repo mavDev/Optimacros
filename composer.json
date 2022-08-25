@@ -1,0 +1,20 @@
+{
+    "name": "mav/optimacros",
+    "autoload": {
+        "psr-4": {
+            "Mav\\Optimacros\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mav",
+            "email": "mav@fryazino.net"
+        }
+    ],
+    "require": {
+        "php":">=8.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
